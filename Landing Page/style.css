@@ -59,12 +59,6 @@ header{
     display: flex;
 }
 
-#linha-1{
-    width: 100%;
-    margin-top: 1rem;
-    border-color: black;
-}
-
 .bat-bot{
     margin: 1.1rem;
     margin-top: 2.7rem;
